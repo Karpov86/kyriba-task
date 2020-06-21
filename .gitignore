@@ -1,0 +1,6 @@
+/target/
+/simple-log-tool.iml
+# IntellijIdea files
+*.iml
+.idea
+out
